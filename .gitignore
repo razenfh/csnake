@@ -1,0 +1,9 @@
+build/
+*.o
+app
+*.exe
+*.out
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
